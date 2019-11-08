@@ -7,6 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <h1>Ghibli Films</h1>
       <Films />
     </div>
   );
